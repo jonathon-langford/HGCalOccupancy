@@ -1,0 +1,15 @@
+#ignore files
+*.root
+*.log
+*.sub
+*.err
+*.out
+*.pdf
+*.pkl
+*.csv
+*.txt
+python/sandbox.py
+run/jlangfor.cc
+python/old
+
+
